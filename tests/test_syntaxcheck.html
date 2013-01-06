@@ -1,5 +1,7 @@
 <html>
-	<head>		
+	<head>	
+		<meta charset="UTF8"/>
+		<title>Testing...</title>
 	</head>
 	<body>
 		<h2>Syntax check test</h2>
@@ -10,8 +12,10 @@
 			var output;
 			
 			window.onerror = function(error) {
-				if(error == 'Script error.')
-					output.innerHTML += '<li><b style="color: #cc0000">Script error</b></li>';					
+				if(error == 'Script error.'){
+					output.innerHTML += '<li><b style="color: #cc0000">Script error</b></li>';
+					document.title = 'Script error';
+				}
 			}
 			setTimeout(function() {	
 				output = document.getElementById('output');			
@@ -49,6 +53,9 @@
 			}
 			window.gamedevSkillsSpecs = function(id, content) {
 				output.innerHTML += '<li>['+id+'] '+JSON.stringify(content)+'</li>';
+			}
+			window.onload = function(){
+				document.title = 'Success';
 			}
 		</script>
 		<ul id="output">Loading scripts</ul>
