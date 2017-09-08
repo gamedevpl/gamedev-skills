@@ -1,0 +1,9 @@
+{
+  "id": "rownania-rozniczkowe",
+  "title": "Równania różniczkowe",
+  "brief": "Do czego służą, zdolność rozwiązywania.",
+  "description": "Znajomość RR jest konieczne do pełnego zrozumienia wielu zaawansowanych zagadnień z zakresu programowania fizyki, grafiki lub efektów dźwiękowych.",
+  "required": [
+    "analiza-matematyczna"
+  ]
+}

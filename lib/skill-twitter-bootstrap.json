@@ -1,0 +1,9 @@
+{
+  "id": "twitter-bootstrap",
+  "title": "Twitter Bootstrap",
+  "brief": "Javascript/CSS Framework",
+  "description": "Javascript/CSS Framework",
+  "required": [
+    "css"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "jezyk-autoit-ekspert",
+  "title": "Język AutoIT - ekspert",
+  "brief": "Perfekcyjna znajomość języka AutoIT",
+  "description": "Perfekcyjna znajomość języka AutoIT",
+  "required": [
+    "jezyk-autoit-zaawansowany"
+  ]
+}

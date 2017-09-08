@@ -1,0 +1,10 @@
+{
+  "id": "webgl",
+  "title": "WebGL",
+  "brief": "Renderowanie grafiki przy pomocy GPU z poziomu przeglądarki WWW.",
+  "description": "Renderowanie grafiki przy pomocy GPU z poziomu przeglądarki WWW.",
+  "required": [
+    "javascript-zaawansowany",
+    "html5-canvas"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "nodejs",
+  "title": "node.js",
+  "brief": "Serwer, na którym uruchamiane są aplikacje napisane w języku JavaScript.",
+  "description": "Serwer, na którym uruchamiane są aplikacje napisane w języku JavaScript.",
+  "required": [
+    "serverside-javascript"
+  ]
+}

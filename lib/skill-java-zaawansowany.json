@@ -1,0 +1,6 @@
+{
+  "id": "java-zaawansowany",
+  "title": "Java - Zaawansowany",
+  "brief": "Dobra znajomość takich zagadnień jak Garbage Collector w kontekście wydajności, ustawienia JVM.",
+  "description": "Dobra znajomość takich zagadnień jak <b>Garbage Collector</b> w kontekście wydajności, ustawienia JVM. Znajomość popularnych bibliotek stosowanych do tworzenia aplikacji mobilnych, internetowych, appletów i programów desktopowych."
+}

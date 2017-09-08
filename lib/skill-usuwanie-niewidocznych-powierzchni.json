@@ -1,0 +1,9 @@
+{
+  "id": "usuwanie-niewidocznych-powierzchni",
+  "title": "Usuwanie niewidocznych powierzchni",
+  "brief": "Do czego służy, znajomość zasady działania podstawowych technik(zbuffer, frustrum culling, BSP)",
+  "description": "Do czego służy, znajomość zasady działania podstawowych technik(zbuffer, frustrum culling, BSP)",
+  "required": [
+    "geometria-klasyczna"
+  ]
+}

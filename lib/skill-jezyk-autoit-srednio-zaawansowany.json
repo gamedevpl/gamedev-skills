@@ -1,0 +1,9 @@
+{
+  "id": "jezyk-autoit-srednio-zaawansowany",
+  "title": "Język AutoIT - średnio zaawansowany",
+  "brief": "Średnio zaawansowana znajomość języka AutoIT",
+  "description": "Średnio zaawansowana znajomość języka AutoIT",
+  "required": [
+    "jezyk-autoit-podstawy"
+  ]
+}

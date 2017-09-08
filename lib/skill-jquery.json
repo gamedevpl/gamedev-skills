@@ -1,0 +1,9 @@
+{
+  "id": "jquery",
+  "title": "jQuery",
+  "brief": "Biblioteka JavaScript",
+  "description": "Biblioteka JavaScript",
+  "required": [
+    "javascript-podstawy"
+  ]
+}

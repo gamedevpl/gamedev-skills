@@ -1,0 +1,10 @@
+{
+  "id": "html5-canvas",
+  "title": "HTML5 - Canvas",
+  "brief": "Renderowanie grafiki w przeglądarce przy użyciu elementu &lt;canvas&gt; i JavaScriptu.",
+  "description": "Renderowanie grafiki w przeglądarce przy użyciu elementu &lt;canvas&gt; i JavaScriptu.",
+  "required": [
+    "javascript-podstawy",
+    "html5"
+  ]
+}

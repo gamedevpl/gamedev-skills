@@ -1,0 +1,9 @@
+{
+  "id": "jezyk-angielski-sredniozaawansowany",
+  "title": "Język angielski - Średniozaawansowany",
+  "brief": "Znajomość języka pozwalająca na dokładne zrozumienie tekstu.",
+  "description": "Znajomość języka pozwalająca na dokładne zrozumienie tekstu.",
+  "required": [
+    "jezyk-angielski-podstawy"
+  ]
+}

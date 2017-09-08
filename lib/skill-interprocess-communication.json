@@ -1,0 +1,10 @@
+{
+  "id": "interprocess-communication",
+  "title": "Inter-process communication",
+  "brief": "Wymiana danych pomiędzy procesami(IPC), do czego służy, kiedy warto używać, jakie techniki są najbardziej przydatne w kontekście tworzenia gier.",
+  "description": "Wymiana danych pomiędzy procesami(IPC), do czego służy, kiedy warto używać, jakie techniki są najbardziej przydatne w kontekście tworzenia gier.",
+  "required": [
+    "c-zaawansowany",
+    "java-zaawansowany"
+  ]
+}

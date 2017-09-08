@@ -1,0 +1,9 @@
+{
+  "id": "php-zaawansowany",
+  "title": "PHP - Zaawansowany",
+  "brief": "Zaawansowane programowanie w PHP: Programowanie obiektowe, Znajomość popularnych frameworków(Zend, Symphony), Bezpieczeństwo, Wydajność",
+  "description": "Zaawansowane programowanie w PHP:\n<ul>\n<li>Programowanie obiektowe(OOP)</li><li>Znajomość popularnych frameworków(Zend, Symphony)</li><li>Bezpieczeństwo</li><li>Wydajność</li><li>???</li>\n</ul>",
+  "required": [
+    "php"
+  ]
+}

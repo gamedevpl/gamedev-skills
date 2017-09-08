@@ -1,0 +1,9 @@
+{
+  "id": "jezyk-angielski-zaawansowany",
+  "title": "Język angielski - Zaawansowany",
+  "brief": "Znajomość języka umożliwiająca swobodną komunikację w mowie i piśmie.",
+  "description": "Znajomość języka umożliwiająca swobodną komunikację w mowie i piśmie.",
+  "required": [
+    "jezyk-angielski-sredniozaawansowany"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "android",
+  "title": "Android",
+  "brief": "System operacyjny",
+  "description": "System operacyjny",
+  "required": [
+    "java-podstawy"
+  ]
+}

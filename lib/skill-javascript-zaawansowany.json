@@ -1,0 +1,9 @@
+{
+  "id": "javascript-zaawansowany",
+  "title": "JavaScript - Zaawansowany",
+  "brief": "Znajomość problemów związanych z wydajnością skryptów pisanych w JS, bezpieczeństwie i kompatybilności z różnymi silnikami JS(Rhino, V8 i inne).",
+  "description": "Znajomość problemów związanych z wydajnością skryptów pisanych w JS, bezpieczeństwie i kompatybilności z różnymi silnikami JS(Rhino, V8 i inne).",
+  "required": [
+    "javascript-podstawy"
+  ]
+}

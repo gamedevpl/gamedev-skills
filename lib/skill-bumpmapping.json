@@ -1,0 +1,9 @@
+{
+  "id": "bumpmapping",
+  "title": "Bumpmapping",
+  "brief": "Efekt pozwalający wyświetlać nierówności na powierzchniach.",
+  "description": "Efekt pozwalający wyświetlać nierówności na powierzchniach.",
+  "required": [
+    "algebra-liniowa"
+  ]
+}

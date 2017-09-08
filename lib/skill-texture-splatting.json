@@ -1,0 +1,9 @@
+{
+  "id": "texture-splatting",
+  "title": "Texture splatting",
+  "brief": "Do czego służy, kiedy warto stosować tą technikę renderowania, słabe i mocne strony.",
+  "description": "Do czego służy, kiedy warto stosować tą technikę renderowania, słabe i mocne strony.",
+  "required": [
+    "renderowanie-terenu"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "opengl-zaawansowany",
+  "title": "OpenGL - zaawansowany",
+  "brief": "Zaawansowane sztuczki i algorytmy wykorzystujące OpenGL.",
+  "description": "Zaawansowane sztuczki i algorytmy wykorzystujące OpenGL.",
+  "required": [
+    "opengl-podstawy"
+  ]
+}

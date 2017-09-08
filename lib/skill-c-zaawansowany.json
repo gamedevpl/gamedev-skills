@@ -1,0 +1,9 @@
+{
+  "id": "c-zaawansowany",
+  "title": "C++ - Zaawansowany",
+  "brief": "Umiejętność pisania złożonego kodu w oparciu o rozwiniętą obiektowość, szablony i użycie preprocesora. Zdolność tworzenia kompletnych rozwiązań.",
+  "description": "Umiejętność pisania złożonego kodu w oparciu o rozwiniętą obiektowość, szablony i użycie preprocesora. Zdolność tworzenia kompletnych rozwiązań.",
+  "required": [
+    "c-podstawy"
+  ]
+}

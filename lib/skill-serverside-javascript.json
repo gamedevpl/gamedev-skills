@@ -1,0 +1,9 @@
+{
+  "id": "serverside-javascript",
+  "title": "Server-Side JavaScript",
+  "brief": "Rozwiązania serwerowe w oparciu o javascript",
+  "description": "Rozwiązania serwerowe w oparciu o javascript",
+  "required": [
+    "javascript-podstawy"
+  ]
+}

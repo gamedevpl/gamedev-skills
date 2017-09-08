@@ -1,0 +1,9 @@
+{
+  "id": "memory-managercc",
+  "title": "Memory manager(C/C++)",
+  "brief": "Zarządzanie alokacją i dealokacją pamięci w silniku.",
+  "description": "Zarządzanie alokacją i dealokacją pamięci w silniku. Kiedy warto stosować, jakie są sposoby implementacji, gotowe rozwiązania.",
+  "required": [
+    "c-zaawansowany"
+  ]
+}
